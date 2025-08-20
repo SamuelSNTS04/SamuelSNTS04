@@ -23,7 +23,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40px>
 </div>
 
-<h2>Sobre mim</h2>
+<h2>Minha jornada</h2>
 <div>
     <h3>📚 Análise e Desenvolvimento de Sistemas - IESB</h3>
     <h3>💻 Linguagens de programação: </h3>
@@ -33,15 +33,11 @@
         <li>Python</li>
         <li>NodeJs</li>
         <li>C#</li>
-    </ul><br>
+    </ul>
     <h3>Qualificações e Certificações</h3>
-
     <h3>Sobre mim..</h3>
     <p>Antes de tudo me chamo Samuel Santos, sou estudante de Análise e Desenvolvimento de Sistemas pelo Iesb e entusiasta da tecnologia. Tenho foco e interesse em desenvolvimento back-end e uma certa curiosidade ao mundo do estudo de dados.</p>
     <p>Durante meu percurso acadêmico tive um contato expressivo com algumas linguagens de programação e me interessei, primordialmente, por Java e JavaScript, fazendo algumas aplicações com essas linguagens.</p>
     <p>Minhas próximas metas estão baseadas em conseguir um estágio para adentrar ao mercado de desenvolvimento e iniciar a minha carreira na TI, visando também em um futuro próximo abrir minha empresa com foco em desenvovimento</p>
-
     <h3>Contatos</h3>
-    
-
 </div>
